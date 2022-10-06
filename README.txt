@@ -50,6 +50,6 @@
         - En este caso: docker run gfs5/challenge:latest
         Una vez la imagen esté levantada, vamos al navegador
         
-                > https://localhost:80
+                > localhost:(puerto expuesto)
         
 

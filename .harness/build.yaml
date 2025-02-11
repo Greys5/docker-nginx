@@ -32,3 +32,5 @@ pipeline:
                   spec:
                     shell: Sh
                     command: Docker build . -t app
+  delegateSelectors:
+    - docker-delegate
